@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">GoogleVolleyIntro</string>
+
+
+    <string name="edEnterURL">Enter URL</string>
+
+    <string name="btnMakeRequest">Make Request</string>
+
+</resources>
